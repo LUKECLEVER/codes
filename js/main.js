@@ -30,7 +30,7 @@
 			$window.on('load', function() {
 				window.setTimeout(function() {
 					$body.removeClass('is-loading');//is-loading
-				}, 1);//100
+				}, 100);//100
 			});
 
 		// Fix: Placeholder polyfill.
