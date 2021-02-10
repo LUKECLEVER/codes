@@ -1,3 +1,5 @@
+response.addHeader("Cache-Control", "no-store, must-revalidate"); 
+response.addHeader("Expires", "Thu, 01 Jan 1970 00:00:01 GMT");
 /*
 	瓜瓜导航页 by 瓜瓜
 	luyaoguagua.top | admin@luyaoguagua.top
