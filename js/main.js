@@ -1,4 +1,3 @@
-document.write("<s"+"cript type='text/javascript' src='https://codes.luyaoguagua.top/js/main.js?"+Math.random()+"'></scr"+"ipt>"); 
 /*
 	瓜瓜导航页 by 瓜瓜
 	luyaoguagua.top | admin@luyaoguagua.top
