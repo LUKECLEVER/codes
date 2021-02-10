@@ -25,12 +25,12 @@
 			$main_articles = $main.children('article');
 
 		// Disable animations/transitions until the page has loaded.
-			$body.addClass('');//is-loading
+			$body.addClass('is-loading');//is-loading
 
 			$window.on('load', function() {
 				window.setTimeout(function() {
-					$body.removeClass('');//is-loading
-				}, 100);
+					$body.removeClass('is-loading');//is-loading
+				}, 1);
 			});
 
 		// Fix: Placeholder polyfill.
