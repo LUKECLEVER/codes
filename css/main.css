@@ -1082,7 +1082,7 @@
 			-webkit-transition: -webkit-transform 0.325s ease-in-out, -webkit-filter 0.325s ease-in-out;
 			-ms-transition: -ms-transform 0.325s ease-in-out, -ms-filter 0.325s ease-in-out;
 			transition: transform 0.325s ease-in-out, filter 0.325s ease-in-out;
-			background-image: url("http://api.luyaoguagua.top/guapi.php");  /* https://source.luyaoguagua.top/img/navbg.jpg */
+			background-image: url("https://api.luyaoguagua.top/guapi.php");  /* https://source.luyaoguagua.top/img/navbg.jpg */
 			background-position: center;
 			background-size: cover;
 			background-repeat: no-repeat;
