@@ -64,12 +64,9 @@ window.addEventListener("load", () => {
 function change(a){
     var css=document.getElementById("css");
     if (a == 1) {
-        css.setAttribute("href","css/night.css");
+        css.setAttribute("href","https://codes.luyaoguagua.top/timer/css/night.css");
     }
     if (a == 2) {
-        css.setAttribute("href","css/light.css");
+        css.setAttribute("href","https://codes.luyaoguagua.top/timer/css/light.css");
     }
 }
-function jump(){
-	window.location.href="https://github.com/MicDZ/Count-down";
-   }
