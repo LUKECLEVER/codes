@@ -1,8 +1,3 @@
-/*
-	瓜瓜导航页 by 瓜瓜
-	luyaoguagua.top | admin@luyaoguagua.top
-*/
-
 (function($) {
 
 	skel.breakpoints({
